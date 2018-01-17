@@ -3,6 +3,19 @@ This project versioning adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 ### Added
+- Test case to add products from csv to facebook shop tab
+- Login to facebook
+- Load shop tab
+- Click on add product link
+- Fill product info and upload one default image from a remote source
+- Save Product
+
+## 1.5.1 - 2018-01-17
+### Changed
+- New example file added facebook-shop-product-add.php to add products to facebook.com shop tab
+
+
+### Added
 - Connection and request timeouts could be specified also when creating RemoteWebDriver from existing session ID.
 
 ## 1.5.0 - 2017-11-15
