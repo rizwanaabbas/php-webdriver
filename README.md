@@ -1,4 +1,5 @@
-# php-webdriver – Selenium WebDriver bindings for PHP
+# php-webdriver – Selenium WebDriver bindings for PHP 
+# there is sample file to add products to facebook for ads carousel
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/facebook/webdriver.svg?style=flat-square)](https://packagist.org/packages/facebook/webdriver)
 [![Travis Build](https://img.shields.io/travis/facebook/php-webdriver/community.svg?style=flat-square)](https://travis-ci.org/facebook/php-webdriver)
